@@ -1,0 +1,46 @@
+{
+  "averse": "03_pytanie.png",
+  "reverse": "03_odpowiedz.png",
+  "buttons": [
+    {
+      "action": "good",
+      "h": 88,
+      "img": "03_przycisk1.png",
+      "w": 97,
+      "x": 20,
+      "y": 60
+    },
+    {
+      "action": "bad",
+      "h": 135,
+      "img": "03_przycisk2.png",
+      "w": 122,
+      "x": 150,
+      "y": 60
+    },
+    {
+      "action": "bad",
+      "h": 119,
+      "img": "03_przycisk3.png",
+      "w": 206,
+      "x": 20,
+      "y": 200
+    },
+    {
+      "action": "bad",
+      "h": 142,
+      "img": "03_przycisk4.png",
+      "w": 101,
+      "x": 190,
+      "y": 300
+    },
+    {
+      "action": "bad",
+      "h": 76,
+      "img": "03_przycisk5.png",
+      "w": 104,
+      "x": 50,
+      "y": 350
+    }
+  ]
+}

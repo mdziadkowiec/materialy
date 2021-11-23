@@ -1,0 +1,99 @@
+[
+  {
+    "currencies": [
+      {
+        "buy": 3.1967,
+        "code": "USD",
+        "conversion": 1,
+        "name": "Dolar Amerykański",
+        "sell": 3.2613
+      },
+      {
+        "buy": 2.8962,
+        "code": "AUD",
+        "conversion": 1,
+        "name": "Dolar Australijski",
+        "sell": 2.9548
+      },
+      {
+        "buy": 2.9166,
+        "code": "CAD",
+        "conversion": 1,
+        "name": "Dolar Kanadyjski",
+        "sell": 2.9756
+      },
+      {
+        "buy": 4.1442,
+        "code": "EUR",
+        "conversion": 1,
+        "name": "Euro",
+        "sell": 4.228
+      },
+      {
+        "buy": 1.3228,
+        "code": "HUF",
+        "conversion": 100,
+        "name": "Forint (Węgry)",
+        "sell": 1.3496
+      },
+      {
+        "buy": 3.4213,
+        "code": "CHF",
+        "conversion": 1,
+        "name": "Frank szwajcarski",
+        "sell": 3.4905
+      },
+      {
+        "buy": 5.2224,
+        "code": "GBP",
+        "conversion": 1,
+        "name": "Funt szterling",
+        "sell": 5.328
+      },
+      {
+        "buy": 2.9792,
+        "code": "JPY",
+        "conversion": 100,
+        "name": "Jen (Japonia)",
+        "sell": 3.0394
+      },
+      {
+        "buy": 0.1504,
+        "code": "CZK",
+        "conversion": 1,
+        "name": "Korona Czeska",
+        "sell": 0.1534
+      },
+      {
+        "buy": 0.5566,
+        "code": "DKK",
+        "conversion": 1,
+        "name": "Korona Duńska",
+        "sell": 0.5678
+      },
+      {
+        "buy": 0.4988,
+        "code": "NOK",
+        "conversion": 1,
+        "name": "Korona norweska",
+        "sell": 0.5088
+      },
+      {
+        "buy": 0.4484,
+        "code": "SEK",
+        "conversion": 1,
+        "name": "Korona Szwedzka",
+        "sell": 0.4574
+      },
+      {
+        "buy": 4.8038,
+        "code": "XDR",
+        "conversion": 1,
+        "name": "SDR (MFW)",
+        "sell": 4.9008
+      }
+    ],
+    "published_at": "1412009800",
+    "table": "181/C/NBP/2014"
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "averse": "01_pytanie.png",
+  "reverse": "01_odpowiedz.png",
+  "buttons": [
+    {
+      "action": "good",
+      "h": 81,
+      "img": "01_przycisk1.png",
+      "w": 81,
+      "x": 20,
+      "y": 370
+    },
+    {
+      "action": "bad",
+      "h": 81,
+      "img": "01_przycisk2.png",
+      "w": 81,
+      "x": 120,
+      "y": 370
+    },
+    {
+      "action": "bad",
+      "h": 81,
+      "img": "01_przycisk3.png",
+      "w": 81,
+      "x": 220,
+      "y": 370
+    }
+  ]
+}
